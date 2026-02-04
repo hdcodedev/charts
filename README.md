@@ -358,5 +358,4 @@ private fun AddCustomStackedBarChart() {
 https://www.jetbrains.com/help/kotlin-multiplatform-dev/multiplatform-setup.html
 
 # Contributions
-🌟 Thank you for your time! Before you start working on code, please create a [new issue](https://github.com/dautovicharis/Charts/issues).
 [Contributing guidelines](CONTRIBUTING.md)
